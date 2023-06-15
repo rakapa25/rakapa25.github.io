@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2021 DREU Project Site
+title: Summer 2023 DREU Project Site
 ---
 
 * TOC
@@ -8,11 +8,11 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-My info goes here.
+My name is Riddhavee Kapadia (she/her) '25. I go to Colby College and am a rising junior. I am double majoring in Computational Biology and Spanish, and want to add a data science minor. I'm interested in going into public health, and considering doing further research in the field. 
 
 ## About My Mentor
 
-Mentor info goes here.
+My professor Rua M. Williams, as taken from their profile on Purdue, is an Assistant Professor in the User Experience Design program at Purdue University. They are a Just Tech Fellow with the Social Science Research Council. They study interactions between technology design, computing research practices, and Disability Justice. Dr. Williams deploys Feminist and Anti-Racist approaches to Technoscience, Critical disability Studies, and Science and Technology Studies in the design and evaluation of technological systems to simultaneously illustrate injustice in technology as well as marginalized users’ own practices of resistance through those same technologies.
 
 ## About My Project
 
